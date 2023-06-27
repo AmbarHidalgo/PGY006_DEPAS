@@ -19,6 +19,13 @@ def dibujarEdificio():
                 print(f"🟥", end="|")
         print(" ")
 
-dibujarEdificio() 
+def limpiarpantalla():
+    pass
+
+def printr(texto):
+    pass
+
+def comprarDepa(piso,columna):
+    pass
 
 
